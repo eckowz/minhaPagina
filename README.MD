@@ -28,7 +28,7 @@ Nothing for now.
 
 *   Guilherme
 
-*   [Linkedin](https://www.linkedin.com/in/guilherme-eco-7a892aa7/) - Pagina no Linkedin
+*   [![Linkedin][linkedin-image]][linkedin-url]
 
 *   E-mail: guilherme_eco@hotmail.com
 
@@ -43,3 +43,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [wiki]: https://github.com/yourname/yourproject/wiki
+[linkedin-image]: https://github.com/eckowz/res/img/LI-In-Bug.png?raw=true
+[linkedin-url]: https://www.linkedin.com/in/guilherme-eco-7a892aa7/
