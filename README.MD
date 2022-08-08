@@ -27,9 +27,9 @@ Nothing for now.
 
 ## Meta
 
-Guilherme 
-![Linkedin][linkedin-url] 
-E-mail: guilherme_eco@hotmail.com
+*   Guilherme 
+*   [Linkedin](https://www.linkedin.com/in/guilherme-eco-7a892aa7/) - Pagina no Linkedin
+*   E-mail: guilherme_eco@hotmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
@@ -41,5 +41,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[linkedin-url]: https://www.linkedin.com/in/guilherme-eco-7a892aa7/
 [wiki]: https://github.com/yourname/yourproject/wiki
