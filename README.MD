@@ -1,5 +1,5 @@
 # Portifólio Online
-> Short blurb about what your product does.
+> Código fonte pagina Web.
 
 [![NPM Version][npm-image]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
@@ -27,7 +27,7 @@ Nothing for now.
 
 ## Meta
 
-Guilherme – [](https://www.linkedin.com/in/guilherme-eco-7a892aa7/) – guilherme_eco@hotmail.com
+Guilherme – [Linkedin](https://www.linkedin.com/in/guilherme-eco-7a892aa7/) – guilherme_eco@hotmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
