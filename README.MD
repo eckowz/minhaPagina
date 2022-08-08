@@ -17,7 +17,6 @@ O propósito deste repositório é simplesmente manter o código fonte de um por
 Nothing for now.
 
 ```sh
-
 ```
 
 ## Release History
@@ -27,8 +26,10 @@ Nothing for now.
 
 ## Meta
 
-*   Guilherme 
+*   Guilherme
+
 *   [Linkedin](https://www.linkedin.com/in/guilherme-eco-7a892aa7/) - Pagina no Linkedin
+
 *   E-mail: guilherme_eco@hotmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
