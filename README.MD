@@ -43,5 +43,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [wiki]: https://github.com/yourname/yourproject/wiki
-[linkedin-image]: https://raw.githubusercontent.com/eckowz/res/img/LI-In-Bug.png
+[linkedin-image]: https://raw.githubusercontent.com/eckowz/minhaPagina/master/res/img/LI-In-Bug.png
 [linkedin-url]: https://www.linkedin.com/in/guilherme-eco-7a892aa7/
