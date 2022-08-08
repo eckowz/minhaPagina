@@ -27,10 +27,8 @@ Nothing for now.
 ## Meta
 
 *   Guilherme
-
-*   [![Linkedin][linkedin-image]][linkedin-url]
-
 *   E-mail: guilherme_eco@hotmail.com
+[![Linkedin][linkedin-image]][linkedin-url]
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
