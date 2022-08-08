@@ -14,23 +14,21 @@ O propósito deste repositório é simplesmente manter o código fonte de um por
 
 ## Development setup
 
-Nothing for now.
-
 ```sh
+    npm install
 ```
 
 ## Release History
 
-* 1.0.0
+* 1.0.1
     * Work in progress
 
 ## Meta
 
 *   Guilherme
 *   E-mail: guilherme_eco@hotmail.com
-[![Linkedin][linkedin-image]][linkedin-url]
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+[![Linkedin][linkedin-image]][linkedin-url]
 
 [https://github.com/eckowz/github-link](https://github.com/eckowz/)
 
