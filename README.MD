@@ -20,7 +20,7 @@ O propósito deste repositório é simplesmente manter o código fonte de um por
 
 ## Release History
 
-* 1.0.1
+* 1.0.2
     * Work in progress
 
 ## Meta
